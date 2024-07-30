@@ -1,0 +1,57 @@
+Gaint.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+Eye_Left
+bounds:893,103,104,104
+Eye_Right
+bounds:779,148,112,112
+Eyebrow_Right
+bounds:289,27,128,66
+Face
+bounds:2,95,411,407
+rotate:90
+Group 1
+bounds:411,167,339,301
+rotate:90
+Kiki_Left_Normal
+bounds:788,26,57,59
+rotate:90
+Kiki_Left_Sting
+bounds:853,42,59,59
+Kiki_Right_Normal
+bounds:788,85,61,63
+rotate:90
+Kiki_Right_Sting
+bounds:723,83,63,63
+Mouth Sad
+bounds:2,2,178,91
+Mouth_Happy
+bounds:714,262,198,99
+Noise
+bounds:942,327,90,71
+rotate:90
+Sing_Left
+bounds:714,363,143,226
+rotate:90
+Sing_Right
+bounds:495,21,144,226
+rotate:90
+Sting 1
+bounds:914,209,116,107
+rotate:90
+Sting 2
+bounds:419,4,74,89
+Sting 3
+bounds:723,26,60,55
+Sting 4
+bounds:714,187,73,63
+rotate:90
+Sting 5
+bounds:182,8,85,105
+rotate:90
+Tear_Left
+bounds:411,95,82,70
+Tear_Right
+bounds:942,419,87,75
+rotate:90
